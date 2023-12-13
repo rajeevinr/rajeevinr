@@ -2,7 +2,7 @@
 ### Hey,[Rajeev here!](https://www.twitter.com/rajeev_inr)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajeev-inr)](https://www.linkedin.com/in/rajeev-inr) [![Gmail Badge](https://img.shields.io/badge/-rajeev.inr4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajeev.inr4@gmail.com)](mailto:rajeev.inr4@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@rajeev_inr)](https://www.youtube.com/@rajeev_inr)
+[![Linkedin Badge](https://img.shields.io/badge/-rajeeev_inr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajeev-inr)](https://www.linkedin.com/in/rajeev-inr) [![Gmail Badge](https://img.shields.io/badge/-rajeev.inr4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajeev.inr4@gmail.com)](mailto:rajeev.inr4@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-@rajeev_inr-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@rajeev_inr)](https://www.youtube.com/@rajeev_inr)
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
 
