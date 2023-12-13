@@ -37,7 +37,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 		LearnSpanish()
 		CreateMultiNationalStartup()
 		FinishMyLessons()
-		# Assume 10 more awesome ambitions here  ;)
+		# Assume 10 more awesome ambitions here
 	
  ```
  
