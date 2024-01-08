@@ -1,5 +1,5 @@
 
-### Hey,[Rajeev here!](https://www.twitter.com/rajeev_inr)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey, [Rajeev here!](https://www.twitter.com/rajeev_inr)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-rajeeev_inr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajeev-inr)](https://www.linkedin.com/in/rajeev-inr) [![Gmail Badge](https://img.shields.io/badge/-rajeev.inr4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajeev.inr4@gmail.com)](mailto:rajeev.inr4@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-@rajeev_inr-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@rajeev_inr)](https://www.youtube.com/@rajeev_inr)
@@ -46,7 +46,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  * Also, I've got a **Youtube Channel, [@rajeev_inr](https://www.youtube.com/@rajeev_inr)**. Be sure to check it out as I keep posting videos about a variety of things, ranging from *DIY Projects to Tutorials* about various Technologies.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/10anhGJgV9-UIXvmNDMoRhq_tTnDR0E_G/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1-f2vLiCuL2lpw7MpU00LudoNEM_8QGP3/view?usp=sharing)
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=rajeevinr&show_icons=true&hide=[%22issues%22])
  
